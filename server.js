@@ -3,7 +3,7 @@ var express = require('express'),
 var path = require('path');
 
 var staticSiteOptions = {
-    portnum: 8000, 
+    portnum: 8080, 
     maxAge: 1000 * 60 * 60 * 24
 };
 
